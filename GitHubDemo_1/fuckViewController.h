@@ -10,4 +10,8 @@
 
 @interface fuckViewController : UIViewController
 
+@property UILabel * wtf;
+
+@property  UIFont * xcxcode;
+
 @end
