@@ -14,4 +14,8 @@
 
 @property  UIFont * xcxcode;
 
+@property  UIFont * xchjode;
+
+@property  UIFont * xcxghje;
+
 @end

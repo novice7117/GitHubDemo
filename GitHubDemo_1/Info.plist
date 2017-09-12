@@ -40,6 +40,26 @@
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
+        <key>CFBundleURLTypes</key>
+        <array>
+            <dict>
+                <key>CFBundleURLSchemes</key>
+                <array>
+                    <string>fb1772906293008713</string>
+                </array>
+            </dict>
+        </array>
+        <key>FacebookAppID</key>
+        <string>1772906293008713</string>
+        <key>FacebookDisplayName</key>
+        <string>APPIntegration</string>
+        <key>LSApplicationQueriesSchemes</key>
+        <array>
+            <string>fbapi</string>
+            <string>fb-messenger-api</string>
+            <string>fbauth2</string>
+            <string>fbshareextension</string>
+        </array>
 	</array>
 </dict>
 </plist>
